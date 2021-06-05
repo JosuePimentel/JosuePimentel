@@ -4,7 +4,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-josue.pimentel.106-6633cc?style=flat-square&logo=Facebook&logoColor=white&link=mailto:josue.pimentel.106)](https://www.facebook.com/josue.pimentel.106/)
 
 - Desenvolvedor Web.
-- Front end
+- Front end.
 - 17 anos.
 - Estudante.
 
