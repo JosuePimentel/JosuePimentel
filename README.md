@@ -6,8 +6,7 @@
 - Desenvolvedor Web.
 - Front end
 - 17 anos.
-- Estudante
-- Gosto de viajar.
+- Estudante.
 
 > Study the past if you want to intuit the future (Confucius)
 
