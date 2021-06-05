@@ -1,16 +1,13 @@
-### Hi there 👋
+# Josué Pimentel
 
-<!--
-**JosuePimentel/JosuePimentel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Gmail Badge](https://img.shields.io/badge/-josue.farias.pimentel@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josue.farias.pimentel@gmail.com)](mailto:josue.farias.pimentel@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/-josue.pimentel.106-6633cc?style=flat-square&logo=Facebook&logoColor=white&link=mailto:josue.pimentel.106)](https://www.facebook.com/josue.pimentel.106/)
 
-Here are some ideas to get you started:
+- Desenvolvedor Web.
+- Front end
+- 17 anos.
+- Estudante
+- Gosto de viajar.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Study the past if you want to intuit the future (Confucius)
+
