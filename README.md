@@ -5,8 +5,8 @@
 
 - Desenvolvedor Web.
 - Front end.
-- 17 anos.
-- Estudante.
+- 19 anos.
+- Cientista da Computação - IFGO.
 
 > Study the past if you want to intuit the future (Confucius)
 
