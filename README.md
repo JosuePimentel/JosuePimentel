@@ -1,8 +1,7 @@
 # Josué Pimentel
 
 ![JosuePimentel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosuePimentel&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br&hide=prs,contribs)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosuePimentel&layout=pie&locale=pt-br&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosuePimentel&layout=compact&locale=pt-br&theme=dark)
 
 ---
 
