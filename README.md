@@ -1,11 +1,7 @@
 <h1>Olá! Eu sou o Josué Pimentel</h1><br>
 
-<div height="180em" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api?username=JosuePimentel&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br&hide=prs,contribs">
-</div
-<div height="180em" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosuePimentel&layout=compact&locale=pt-br&theme=dark">
-</div
+![JosuePimentel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosuePimentel&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br&hide=prs,contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosuePimentel&layout=compact&locale=pt-br&theme=dark)
 
 <br>
 
