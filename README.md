@@ -10,7 +10,7 @@
 * Desenvolvedor Front end.  
 * out/2003.
 * Ciências da Computação - IFGO.
-* Estudando C.
+* Estudando C, C++, JS & Python.
 
 > Study the past if you want to intuit the future (Confucius)
 
