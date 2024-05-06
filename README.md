@@ -19,6 +19,6 @@
 <h2 style="font-size:1.7em;">Contato</h2>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-fff?style=for-the-badge&logo=Gmail&logoColor=D3000B&link=mailto:josue.farias.pimentel@gmail.com)](mailto:josue.farias.pimentel@gmail.com)
-[![Phone Badge](https://img.shields.io/badge/-Whatsapp-fff?style=for-the-badge&logo=Whatsapp&logoColor=Brightgreen&link=https://wa.me/64981120169)](https://wa.me/64981120169)
+[![Phone Badge](https://img.shields.io/badge/-Whatsapp-fff?style=for-the-badge&logo=Whatsapp&logoColor=Brightgreen&link=http://lattes.cnpq.br/5249378468689122)]([https://wa.me/64981120169](http://lattes.cnpq.br/5249378468689122))
 
 <br>
