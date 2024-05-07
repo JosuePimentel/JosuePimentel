@@ -36,7 +36,7 @@
 <h2 style="font-size:1.7em;">Curriculo</h2><br>
 
 [![Blog](https://img.shields.io/website?label=Portfólio&style=for-the-badge&url=https://matheuscarvie.vercel.app/)](https://matheuscarvie.vercel.app/)
-[![Curriculum](https://img.shields.io/website?label=Currículo%20lattes&style=for-the-badge&url=http://lattes.cnpq.br/5249378468689122)]([josue.farias.pimentel@gmail.com](http://lattes.cnpq.br/5249378468689122))
+[![Curriculum](https://img.shields.io/website?label=Currículo%20lattes&style=for-the-badge&url=http://lattes.cnpq.br/5249378468689122/)](http://lattes.cnpq.br/5249378468689122)
 
 <br>
 
