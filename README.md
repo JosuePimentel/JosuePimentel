@@ -30,6 +30,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23CB3837.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TailWind CSS](https://img.shields.io/badge/tailwindcss-00599C.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 <br>
 
