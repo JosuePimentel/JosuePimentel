@@ -7,7 +7,7 @@
 
 <h2 style="font-size:1.7em;">Sobre mim</h2><br>
 
-* Desenvolvedor Front end.  
+* Desenvolvedor Full Stack.  
 * out/2003.
 * Ciências da Computação - IFGO.
 
