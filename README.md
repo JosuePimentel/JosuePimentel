@@ -31,6 +31,7 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23CB3837.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![TailWind CSS](https://img.shields.io/badge/tailwindcss-00599C.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![NestJs](https://img.shields.io/badge/nestjs-%23CB3837.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 <br>
 
