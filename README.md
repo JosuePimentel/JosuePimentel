@@ -59,13 +59,3 @@ Desenvolvedor Full Stack apaixonado por tecnologia e inovação. Atualmente grad
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josue.farias.pimentel@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josue-pimentel)
-
----
-
-<div align="center">
-  
-*"Sempre em busca de conhecimento e novas oportunidades para crescer profissionalmente!"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=JosuePimentel&color=brightgreen&style=for-the-badge)
-
-</div>
